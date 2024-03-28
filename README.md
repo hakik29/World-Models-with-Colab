@@ -1,3 +1,3 @@
 # World Models with Colab
 
-World Models(<a>https://arxiv.org/abs/1803.10122</a>)のPytorchバージョンをColabで実装しました。
+Google ColabでWorld Models(<a>https://arxiv.org/abs/1803.10122</a>)をPytorchで実装しました。
