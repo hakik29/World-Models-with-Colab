@@ -1,0 +1,4 @@
+swig
+box2d
+gym[Box2D]
+cma
